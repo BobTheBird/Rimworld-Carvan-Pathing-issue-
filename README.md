@@ -1,4 +1,4 @@
-# RimworldMac-Carvan-Pathing-issue-
+# RimworldMac-Caravan-Pathing-issue-
 Caravans will not leave home and will wonder in circles instead
 
 Log uploaded on Wednesday, October 31, 2018, 2:31:27 PM
